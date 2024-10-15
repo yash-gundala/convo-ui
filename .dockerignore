@@ -1,8 +1,0 @@
-.vscode
-backend
-node_modules
-build
-.dockerignore
-Dockerfile
-.gitignore
-.gitattributes
