@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c41501eb.css",
+    "main.js": "/static/js/main.ae882e59.js",
+    "static/js/845.921a663c.chunk.js": "/static/js/845.921a663c.chunk.js",
+    "static/media/infobellLogo.png": "/static/media/infobellLogo.555f0ae5714c231710e8.png",
+    "static/media/minibot.png": "/static/media/minibot.a9d3144a99f2fd47fcc3.png",
+    "index.html": "/index.html",
+    "main.c41501eb.css.map": "/static/css/main.c41501eb.css.map",
+    "main.ae882e59.js.map": "/static/js/main.ae882e59.js.map",
+    "845.921a663c.chunk.js.map": "/static/js/845.921a663c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c41501eb.css",
+    "static/js/main.ae882e59.js"
+  ]
+}
